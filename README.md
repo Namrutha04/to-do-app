@@ -127,18 +127,11 @@ This `README.md` assumes there's a `client/` folder (React frontend) and `server
 
 ---
 
-Let me know what you'd prefer:
-- 🔁 “Send me real MERN code ZIP”
-- ✅ “No need, just using this README is fine”
-
-I'll help with whatever direction you choose.
-
-
 
 
 Author
 Namrutha
-https://github.com/Namrutha04
+
 
 
 
