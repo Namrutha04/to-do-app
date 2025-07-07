@@ -4,6 +4,20 @@ A full-stack **MERN** (MongoDB, Express.js, React.js, Node.js) to-do list applic
 
 ---
 
+⚠️⚠️IMPORTANT :
+
+## 🧱 MERN Stack Overview
+
+This project is structured around the MERN stack:
+
+- **MongoDB** – Database for storing tasks and users
+- **Express.js** – RESTful API server
+- **React** – (planned frontend)
+- **Node.js** – Application runtime
+
+The current version uses EJS as a placeholder UI, with all backend logic and MongoDB storage functioning like a typical MERN app.
+
+
 ## 🚀 Features
 
 - ✅ User Registration and Login
